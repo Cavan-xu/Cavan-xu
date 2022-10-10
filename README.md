@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cavan-xu
+- 👀 I’m interested in basketball、lol
+- 🌱 I’m currently learning mysql、redis
+- 💞️ I’m looking to collaborate on game backend
+- 📫 How to reach me: please add pull request
